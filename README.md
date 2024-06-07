@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Full stack web development **
+- 🌱 I’m currently learning **Bachelor of Science in Data Science and also Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anandkumar204](https://github.com/Anandkumar204)
 
