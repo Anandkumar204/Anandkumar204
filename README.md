@@ -12,7 +12,7 @@
 - 📫 How to reach me **annadurai.anandkumar@gmail.com**
 
 - ⚡ Fun fact **I'm the kind of Data Engineer who can make even big data feel lightweight. When I'm not wrangling pipelines, I'm busy convincing SQL to behave and Spark to ignite without burning everything down! 🔥🚀**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ak-anandkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ak-anandkumar/" height="30" width="40" /></a>
