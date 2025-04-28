@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anand kumar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A Passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandkumar204&label=Profile%20views&color=0e75b6&style=flat" alt="anandkumar204" /> </p>
 
 
-
-- 🌱 I’m currently learning **Bachelor of Science in Data Science**
+- 🎓 Bachelor of Science in Data Science Graduate.
+  
+- 🌟 Passionate about Data Analytics, Data Science, Machine Learning, and AI!
+  
+- 🌱 I’m currently learning **Master of Science in Data Science and Business Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anandkumar204](https://github.com/Anandkumar204)
 
