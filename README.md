@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anand kumar</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandkumar204&label=Profile%20views&color=0e75b6&style=flat" alt="anandkumar204" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anandkumar-a&label=Profile%20views&color=0e75b6&style=flat" alt="anandkumar-a" />
+</p>
 
 
 - 🎓 Bachelor of Science in Data Science Graduate.
@@ -10,7 +12,7 @@
   
 - 🌱 I’m currently learning **Master of Science in Data Science and Business Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anandkumar204](https://github.com/Anandkumar204)
+- 👨‍💻 All of my projects are available at [https://github.com/anandkumar-a](https://github.com/anandkumar-a)
 
 - 📫 How to reach me **annadurai.anandkumar@gmail.com**
 
@@ -40,8 +42,10 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandkumar204&show_icons=true&locale=en&layout=compact" alt="anandkumar204" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandkumar-a&show_icons=true&locale=en&layout=compact" alt="anandkumar-a" />
+</p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandkumar204&" alt="anandkumar204" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandkumar-a" alt="anandkumar-a" />
+</p>
