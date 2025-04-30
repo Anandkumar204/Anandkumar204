@@ -47,5 +47,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandkumar-a" alt="anandkumar-a" />
-</p>
+  <img align="center" src="https://streak-stats.demolab.com?user=anandkumar-a" alt="anandkumar-a" />
+</p>  
+
